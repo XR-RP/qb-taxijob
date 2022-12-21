@@ -18,10 +18,13 @@ local Translations = {
         ["call_npc"] = "[E] Ropa på NPC",
         ["blip_name"] = "Taxi",
         ["taxi_label_1"] = "Standard-bil",
+        ["no_spawn_point"] = "Finns ingen plats att ta fram taxibilen",
+        ["taxi_returned"] = "Taxi parkerad"
     },
     menu = {
         ["taxi_menu_header"] = "Taxibilar",
         ["close_menu"] = "⬅ Stäng meny",
+        ['boss_menu'] = "Boss Meny"
     }
 }
 
